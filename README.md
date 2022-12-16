@@ -15,7 +15,7 @@ Ola, sou matheus e sou desenvolvedor front-end<br>utilizo as tecnologias HTML | 
 ## 🏆 Trofeuzinhos
 ![](https://github-profile-trophy.vercel.app/?username=reactmatz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![Snake animation](https://github.com/reactmatz/reactmatz/blob/output/github-contribution-grid-snake.svg)
+#![Snake animation](https://github.com/reactmatz/reactmatz/blob/output/github-contribution-grid-snake.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=reactmatz&icon=2&color=1)](https://visitcount.itsvg.in)
 
