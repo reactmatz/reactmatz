@@ -12,7 +12,7 @@ Ola, sou matheus e sou desenvolvedor front-end<br>utilizo as tecnologias HTML | 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reactmatz&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reactmatz&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 Trofeuzinhos
+## 🏆 Conquistas
 ![](https://github-profile-trophy.vercel.app/?username=reactmatz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
