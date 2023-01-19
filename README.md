@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Ola, sou matheus e sou desenvolvedor front-end<br>utilizo as tecnologias HTML | CSS | JS | REACTJS | TYPESCRIPT | NODEJS | C# .
+Ola, sou matheus e sou desenvolvedor Full-Stack<br>utilizo as tecnologias HTML | CSS | JS | REACTJS | TYPESCRIPT | NODEJS | C# .
 
 
 ## 🌐 Minhas Redes:
