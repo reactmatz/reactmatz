@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ola, me chamo matheus, sou desenvolvedor Full-stack & UX/UI Designer,<br>utilizo tecnologias como REACT no Front,  e NodeJS no backend,<br>atualmente cursando Analise e Desenvolvimento de Sistemas -UAM<br><br>Meus repositórios são um compilado de projetos pessoais e pequenos trechos <br>aprendizado diário.<br><br>
+Ola, me chamo Matheus, sou desenvolvedor Full-stack & UX/UI Designer,<br>utilizo tecnologias como REACT no Front,  e NodeJS no backend,<br>atualmente cursando Analise e Desenvolvimento de Sistemas -UAM<br><br>Meus repositórios são um compilado de projetos pessoais e pequenos trechos <br>aprendizado diário.<br><br>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/matheusnascime24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheus-nascimento-031893174/) 
