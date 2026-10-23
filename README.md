@@ -1,16 +1,46 @@
-# 💫 About Me:
-Ola, me chamo Matheus, sou desenvolvedor Full-stack & UX/UI Designer,<br>utilizo tecnologias como REACT no Front,  e NodeJS no backend,<br>atualmente cursando Analise e Desenvolvimento de Sistemas -UAM<br><br>Meus repositórios são um compilado de projetos pessoais e pequenos trechos <br>aprendizado diário.<br><br>
+<h1 align="center">Olá, eu sou o Matheus 👋</h1>
+<p align="center"><b>Desenvolvedor Full-Stack & UX/UI Designer</b><br>TypeScript · Angular · C# · .NET Web API</p>
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/matheusnascime24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheus-nascimento-031893174/) 
+<p align="center">
+  <a href="https://reactmatz.com"><img src="https://img.shields.io/badge/Portfólio-reactmatz.com-111?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/matheus-nascimento-031893174/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.behance.net/matheusnascime24"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a>
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=reactmatz&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=reactmatz&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reactmatz&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 Sobre mim
 
+- 💻 Desenvolvo aplicações full-stack com **Angular + TypeScript** no front e **C# / .NET Web API** no back
+- 🎨 Também atuo com **UX/UI Design**, do protótipo no Figma até o código
+- 🎓 Formação em Análise e Desenvolvimento de Sistemas (UAM)
+- 🌱 Meus repositórios reúnem projetos pessoais, estudos diários e contribuições open source
 
+### 🛠️ Tech Stack
+
+**Front-end**<br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+
+**Back-end**<br>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+
+**Design & Ferramentas**<br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=reactmatz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reactmatz&layout=compact&theme=tokyonight&hide_border=true">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=reactmatz&theme=tokyonight&hide_border=true">
+</p>
