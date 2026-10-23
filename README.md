@@ -38,8 +38,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=reactmatz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reactmatz&layout=compact&theme=tokyonight&hide_border=true">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reactmatz&theme=tokyonight">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reactmatz&theme=tokyonight">
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=reactmatz&theme=tokyonight&hide_border=true">
