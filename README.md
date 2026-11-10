@@ -2,7 +2,8 @@
 <p align="center"><b>Full-Stack Developer & UX/UI Designer</b><br>React · TypeScript · C# · .NET</p>
 
 <p align="center">
-  <a href="https://reactmatz.com"><img src="https://img.shields.io/badge/Portfolio-reactmatz.com-1A1B26?style=for-the-badge&logo=googlechrome&logoColor=F5F5F5"></a>
+  <a href="https://reactmatz.online"><img src="https://img.shields.io/badge/Portfolio-reactmatz.online-1A1B26?style=for-the-badge&logo=googlechrome&logoColor=F5F5F5"></a>
+  <a href="https://divedigital.io"><img src="https://img.shields.io/badge/DiveDigital-divedigital.io-0E7490?style=for-the-badge&logo=googlechrome&logoColor=F5F5F5"></a>
   <a href="https://www.linkedin.com/in/matheus-nascimento-031893174/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=F5F5F5"></a>
   <a href="https://www.behance.net/matheusnascime24"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=F5F5F5"></a>
 </p>
@@ -13,6 +14,7 @@
 
 - 💻 I build full-stack apps with **React + TypeScript** on the front end and **C# / ASP.NET Core** on the back end
 - 🖥️ I also build desktop apps (Electron, WPF/WebView2, Tauri) with React interfaces
+- 🏢 Founder of [**DiveDigital**](https://divedigital.io), a studio that builds websites for businesses
 - 🎨 I work on **UX/UI Design**, from the Figma prototype to the code
 - 🎓 Degree in Systems Analysis and Development (UAM) · XP Inc. + DIO Full-Stack Bootcamp (React + C# .NET)
 - 🌱 Studying Computer Science and looking to contribute to open-source projects
@@ -24,7 +26,7 @@
 | [**Junio.r**](https://github.com/reactmatz/Junio.r-Build-real-apps-with-some-help) | Imports a GitHub repo and uses AI to turn it into a step-by-step plan to rebuild it, with reviewed PRs and CI like a real team | React · C# .NET · WebView2 |
 | [**Talkas**](https://github.com/reactmatz/Talkas-Live-chat-with-friends) | Discord-style P2P voice, video and screen-sharing chat, with no media servers | React · Electron · WebRTC |
 | **Minehub** | One-click Minecraft server hosting, reachable over the internet through a tunnel | React · Tauri |
-| [**reactmatz.com**](https://github.com/reactmatz/portifolio) | My portfolio: a static site with scroll animations | Astro · React · Tailwind · GSAP |
+| [**reactmatz.online**](https://github.com/reactmatz/portifolio) | My portfolio: a static site with scroll animations | Astro · React · Tailwind · GSAP |
 
 ### 🛠️ Tech Stack
 
